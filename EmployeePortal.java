@@ -32,7 +32,7 @@ class Employee
 }
 
 
-public class bob
+public class EmployeePortal
 {
     public static void main(String a[])
     {
@@ -77,4 +77,4 @@ public class bob
         System.out.println("Name : " + e3.name + "__  Position: " + e3.position + "__ ID: " + e3.getID() + "__ Salary: " + e3.getSalary());
         System.out.println("______________________________________");
     }
-}
+} 
